@@ -1,0 +1,14 @@
+.container {
+    width: 1080px;
+}
+
+.table {
+   border: solid 1px;
+   border-color: black;
+}
+
+.cell {
+    border: solid 1px;
+    border-color: black;
+}
+

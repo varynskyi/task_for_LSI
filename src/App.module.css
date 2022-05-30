@@ -1,0 +1,20 @@
+.button {
+    border: solid 1px;
+    border-color: blue;
+    border-radius: 5px;
+    background-color: white;
+    width: 75px;
+    height: 25px;
+    color:blue;
+}
+
+.header {
+    display: flex;
+    margin:10px 10px 20px 10px;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.date {
+    margin-left: 50px;
+}

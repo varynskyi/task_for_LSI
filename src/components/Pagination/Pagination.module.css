@@ -1,0 +1,13 @@
+.pagination {
+    list-style: none;
+}
+
+.items { 
+    display: inline;
+    border: solid 1px;
+    padding: 0 10px;
+}
+
+.link {
+    text-decoration: none;
+}
